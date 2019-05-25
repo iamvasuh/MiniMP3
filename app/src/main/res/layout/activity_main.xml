@@ -18,7 +18,8 @@
         android:layout_height="wrap_content"
         android:text="Pause"
         android:id="@+id/pause_button"
-        android:layout_margin="1dp" />
+        android:layout_margin="1dp"
+        android:textColor="@color/colorAccent"/>
 
 
 </LinearLayout>
