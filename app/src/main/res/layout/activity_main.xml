@@ -4,7 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:padding="16dp"
+    android:padding="18dp"
     tools:context=".MainActivity">
 
     <Button
@@ -18,7 +18,7 @@
         android:layout_height="wrap_content"
         android:text="Pause Song"
         android:id="@+id/pause_button"
-        android:layout_margin="2.5dp"
+        android:layout_margin="3dp"
         android:textColor="@color/colorAccent"/>
 
 
